@@ -7,10 +7,6 @@ import edu.br.ifrn.sistemaEscolar.model.*;
 import java.util.Scanner;
 import java.util.ArrayList;
 
-/**
- *
- * @author luizd
- */
 public class Main {
 
     //variaveis
